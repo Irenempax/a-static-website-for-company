@@ -158,10 +158,14 @@ section {
     opacity: 0;
 }
 
-.portifolio-overlay h3,
-.portifolio-overlay h6 {
-    color: #fff;
+.portifolio-overlay h3 {
+    color: #ffffff;
 
+}
+
+.portifolio-overlay h6 {
+    text-transform: none;
+    color: #ffffff;
 }
 
 .portifolio-item:hover .portifolio-overlay {
